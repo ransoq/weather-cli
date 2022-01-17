@@ -1,6 +1,6 @@
 # weather-cli
-yarn install
-node weather - run app
-node weather -h -- help
-node weather -t -- save token
-node weather -s 'your_city' -- save your city
+yarn install <br>
+node weather : run app <br>
+node weather -h : help <br>
+node weather -t : save token <br>
+node weather -s 'your_city' : save your city
